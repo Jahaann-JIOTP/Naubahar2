@@ -460,7 +460,7 @@ if (!isset($_SESSION['auth'])) {
                                                                         <tr>
                                                                             <td>
                                                                                 <div class="d-inline-block align-middle">
-                                                                                    <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                    <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                     <div class="d-inline-block">
                                                                                         <h6 style="font-size:medium;">
                                                                                             GR-1</h6>
@@ -494,7 +494,7 @@ if (!isset($_SESSION['auth'])) {
                                                                             <td>
 
                                                                                 <div class="d-inline-block align-middle">
-                                                                                    <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                    <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                     <div class="d-inline-block">
                                                                                         <h6 style="font-size:medium;">
                                                                                             GR-2</h6>
@@ -529,7 +529,7 @@ if (!isset($_SESSION['auth'])) {
                                                                             <td>
 
                                                                                 <div class="d-inline-block align-middle">
-                                                                                    <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                    <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                     <div class="d-inline-block">
                                                                                         <h6 style="font-size:medium;">
                                                                                             GR-3</h6>
@@ -565,7 +565,7 @@ if (!isset($_SESSION['auth'])) {
                                                                             <td>
 
                                                                                 <div class="d-inline-block align-middle">
-                                                                                    <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                    <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                     <div class="d-inline-block">
                                                                                         <h6 style="font-size:medium;">
                                                                                             GR-4</h6>
@@ -601,7 +601,7 @@ if (!isset($_SESSION['auth'])) {
                                                                             <td>
 
                                                                                 <div class="d-inline-block align-middle">
-                                                                                    <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                    <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                     <div class="d-inline-block">
                                                                                         <h6 style="font-size:medium;">
                                                                                             GR-5
@@ -637,7 +637,7 @@ if (!isset($_SESSION['auth'])) {
                                                                             <td>
 
                                                                                 <div class="d-inline-block align-middle">
-                                                                                    <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                    <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                     <div class="d-inline-block">
                                                                                         <h6 style="font-size:medium;">
                                                                                             GR-6</h6>
@@ -673,7 +673,7 @@ if (!isset($_SESSION['auth'])) {
                                                                             <td>
 
                                                                                 <div class="d-inline-block align-middle">
-                                                                                    <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                    <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                     <div class="d-inline-block">
                                                                                         <h6 style="font-size:medium;">
                                                                                             GR-7</h6>

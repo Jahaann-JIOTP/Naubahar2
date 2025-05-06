@@ -401,7 +401,7 @@ if(!isset($_SESSION['auth']))
                                                                                 <td>
                                                                                     <div
                                                                                         class="d-inline-block align-middle">
-                                                                                        <img src="assets\images\Capture.png"
+                                                                                        <img src="assets\images\Capture.PNG"
                                                                                             alt="user image"
                                                                                             class="img-40 align-top m-r-15">
                                                                                         <div class="d-inline-block">
@@ -442,7 +442,7 @@ if(!isset($_SESSION['auth']))
 
                                                                                     <div
                                                                                         class="d-inline-block align-middle">
-                                                                                        <img src="assets\images\Capture.png"
+                                                                                        <img src="assets\images\Capture.PNG"
                                                                                             alt="user image"
                                                                                             class="img-40 align-top m-r-15">
                                                                                         <div class="d-inline-block">
@@ -485,7 +485,7 @@ if(!isset($_SESSION['auth']))
 
                                                                                     <div
                                                                                         class="d-inline-block align-middle">
-                                                                                        <img src="assets\images\Capture.png"
+                                                                                        <img src="assets\images\Capture.PNG"
                                                                                             alt="user image"
                                                                                             class="img-40 align-top m-r-15">
                                                                                         <div class="d-inline-block">
@@ -528,7 +528,7 @@ if(!isset($_SESSION['auth']))
 
                                                                                     <div
                                                                                         class="d-inline-block align-middle">
-                                                                                        <img src="assets\images\Capture.png"
+                                                                                        <img src="assets\images\Capture.PNG"
                                                                                             alt="user image"
                                                                                             class="img-40 align-top m-r-15">
                                                                                         <div class="d-inline-block">

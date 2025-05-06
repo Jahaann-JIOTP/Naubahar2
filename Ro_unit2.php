@@ -352,7 +352,7 @@ if (!isset($_SESSION['auth'])) {
                                                                             <tr>
                                                                                 <td>
                                                                                     <div class="d-inline-block align-middle">
-                                                                                        <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                        <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                         <div class="d-inline-block">
                                                                                             <h6 style="font-size:medium;">
                                                                                                 RO-1</h6>
@@ -385,7 +385,7 @@ if (!isset($_SESSION['auth'])) {
                                                                             <tr>
                                                                                 <td>
                                                                                     <div class="d-inline-block align-middle">
-                                                                                        <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                        <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                         <div class="d-inline-block">
                                                                                             <h6 style="font-size:medium;">
                                                                                                 RO-2</h6>
@@ -419,7 +419,7 @@ if (!isset($_SESSION['auth'])) {
                                                                                 <td>
 
                                                                                     <div class="d-inline-block align-middle">
-                                                                                        <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                        <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                         <div class="d-inline-block">
                                                                                             <h6 style="font-size:medium;">
                                                                                                 RO-3</h6>
@@ -455,7 +455,7 @@ if (!isset($_SESSION['auth'])) {
                                                                                 <td>
 
                                                                                     <div class="d-inline-block align-middle">
-                                                                                        <img src="assets\images\Capture.png" alt="user image" class="img-40 align-top m-r-15">
+                                                                                        <img src="assets\images\Capture.PNG" alt="user image" class="img-40 align-top m-r-15">
                                                                                         <div class="d-inline-block">
                                                                                             <h6 style="font-size:medium;">
                                                                                                 RO-4</h6>
@@ -569,7 +569,7 @@ if (!isset($_SESSION['auth'])) {
             function RO_1() {
                 var str = document.getElementById("total_energy_option_S1").value;
                 var jsonData = $.ajax({
-                    url: "calculations/ROSecEnergy/RO1.php?value=" + str,
+                    url: "calculations/ROSecEnergy/RO_1.php?value=" + str,
                     dataType: "json",
                     async: false,
                 }).responseText;
@@ -580,7 +580,7 @@ if (!isset($_SESSION['auth'])) {
             function RO_2() {
                 var str = document.getElementById("total_energy_option_S2").value;
                 var jsonData = $.ajax({
-                    url: "calculations/ROSecEnergy/RO2.php?value=" + str,
+                    url: "calculations/ROSecEnergy/RO_2.php?value=" + str,
                     dataType: "json",
                     async: false,
                 }).responseText;
@@ -590,7 +590,7 @@ if (!isset($_SESSION['auth'])) {
             function RO_3() {
                 var str = document.getElementById("total_energy_option_S3").value;
                 var jsonData = $.ajax({
-                    url: "calculations/ROSecEnergy/RO3.php?value=" + str,
+                    url: "calculations/ROSecEnergy/RO_3.php?value=" + str,
                     dataType: "json",
                     async: false,
                 }).responseText;
@@ -600,7 +600,7 @@ if (!isset($_SESSION['auth'])) {
             function RO_4() {
                 var str = document.getElementById("total_energy_option_S4").value;
                 var jsonData = $.ajax({
-                    url: "calculations/ROSecEnergy/RO4.php?value=" + str,
+                    url: "calculations/ROSecEnergy/RO_4.php?value=" + str,
                     dataType: "json",
                     async: false,
                 }).responseText;
