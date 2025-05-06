@@ -569,7 +569,7 @@ if (!isset($_SESSION['auth'])) {
             function RO_1() {
                 var str = document.getElementById("total_energy_option_S1").value;
                 var jsonData = $.ajax({
-                    url: "calculations/ROSecEnergy/RO-1.php?value=" + str,
+                    url: "calculations/ROSecEnergy/RO1.php?value=" + str,
                     dataType: "json",
                     async: false,
                 }).responseText;
@@ -580,7 +580,7 @@ if (!isset($_SESSION['auth'])) {
             function RO_2() {
                 var str = document.getElementById("total_energy_option_S2").value;
                 var jsonData = $.ajax({
-                    url: "calculations/ROSecEnergy/RO-2.php?value=" + str,
+                    url: "calculations/ROSecEnergy/RO2.php?value=" + str,
                     dataType: "json",
                     async: false,
                 }).responseText;
@@ -590,7 +590,7 @@ if (!isset($_SESSION['auth'])) {
             function RO_3() {
                 var str = document.getElementById("total_energy_option_S3").value;
                 var jsonData = $.ajax({
-                    url: "calculations/ROSecEnergy/RO-3.php?value=" + str,
+                    url: "calculations/ROSecEnergy/RO3.php?value=" + str,
                     dataType: "json",
                     async: false,
                 }).responseText;
@@ -600,7 +600,7 @@ if (!isset($_SESSION['auth'])) {
             function RO_4() {
                 var str = document.getElementById("total_energy_option_S4").value;
                 var jsonData = $.ajax({
-                    url: "calculations/ROSecEnergy/RO-4.php?value=" + str,
+                    url: "calculations/ROSecEnergy/RO4.php?value=" + str,
                     dataType: "json",
                     async: false,
                 }).responseText;
