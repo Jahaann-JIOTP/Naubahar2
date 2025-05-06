@@ -259,7 +259,7 @@
                                     if ($rows['alarms'] == 0) {
                                         echo '<i class="fa fa-bell" style="font-size:25px;color:White"></i>';
                                     } else {
-                                        echo '<img src="assets\output-onlinegiftools(3).GIF" style="width:40px">';
+                                        echo '<img src="assets\output-onlinegiftools_red.GIF" style="width:40px">';
                                         // echo "<audio src='http://freesoundeffect.net/sites/default/files/electronic-alarm-loop--4-sound-effect-21649170.mp3'  autoplay ></audio>";
                                     }
 
@@ -305,9 +305,9 @@
                                             <?php
                                             // second bell //
                                             if ($rows['Status'] == 'Low Power Factor' || $rows['Status'] == 'Low Voltage') { ?>
-                                                <img src="assets\output-onlinegiftools(1).GIF" alt="" height="30px" width="5px">
+                                                <img src="assets\output-onlinegiftools_yellow.GIF" alt="" height="30px" width="5px">
                                             <?php } elseif ($rows['Status'] == 'High Current' || $rows['Status'] == 'High Voltage') { ?>
-                                                <img src="assets\output-onlinegiftools(3).GIF" alt="" height="30px" width="5px">
+                                                <img src="assets\output-onlinegiftools_red.GIF" alt="" height="30px" width="5px">
                                             <?php } ?>
                                             <!-- // second bell end // -->
 
