@@ -1,0 +1,21 @@
+.card {
+     -webkit-box-shadow: 0px 0px 5px 0px rgb(249, 249, 250);
+     -moz-box-shadow: 0px 0px 5px 0px rgba(212, 182, 212, 1);
+     box-shadow: 0px 0px 5px 0px rgb(161, 163, 164)
+ }
+.m-b-0 {
+    color: #284497;
+}
+.card-body{
+	height: 350px;border-top-style: solid; border-radius: 3px !important;border-color: #779ad5;
+}
+.card-title{
+   float: left;
+    height: 35px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #626469;
+    color: var(--detail-label-color);
+    /*padding: 5px 0px 0px 15px;*/
+    /*font-family: Arial, Verdana, "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, sans-serif;*/
+}

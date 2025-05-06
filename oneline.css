@@ -1,0 +1,33 @@
+p {
+  margin: 0;  
+}
+/*.map
+{
+  max-width:100%;
+  height:auto;
+}*/
+.box{
+    position: relative;
+    display: inline-block; /* Make the width of box same as image */
+}
+.box .text{
+    position: absolute;
+    z-index: 999;    
+    text-align: center;
+   /* font-size: 12px;
+*/    font-family:Verdana; font-weight:0; font-size:5px;
+ /* Adjust this value to move the positioned div up and down */
+     /* Set the width of the positioned div */
+}
+.font-features{
+  color: #0040ff;
+  font-weight: bold;
+  padding-top: 5px;
+  margin-bottom: 0rem !important;
+}
+/*img.map, map area{
+    outline: red;
+}*/
+  .card-info:not(.card-outline)>.card-header {
+    background-color: #164ebc;
+}
